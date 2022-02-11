@@ -1,0 +1,16 @@
+# ignore files
+
+# ignore file
+*.launch
+
+# ignore all files in the directory
+Debug/
+.settings/language.settings.xml
+Utillity/ccb2-v5-monitor/ccb2-v5-monitor.aps
+Utillity/ccb2-v5-monitor/.vs/ccb2-v5-monitor/v15/ipch/c1886ea7f91de6b4.ipch
+Utillity/ccb2-v5-monitor/.vs/ccb2-v5-monitor/v15/Browse.VC.db
+Utillity/ccb2-v5-monitor/.vs/ccb2-v5-monitor/v15/.suo
+Utillity/ccb2-v5-monitor/ccb2-v5-monitor.vcxproj.filters
+Utillity/ccb2-v5-monitor/ccb2-v5-monitor.vcxproj.user
+Utillity/ccb2-v5-monitor/.vs/ccb2-v5-monitor/v15/ipch/43732756bc361f84.ipch
+/Release/
